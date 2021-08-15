@@ -1,2 +1,2 @@
-# mrwr-classwork-components
+# mrwr-components
 Created with CodeSandbox
